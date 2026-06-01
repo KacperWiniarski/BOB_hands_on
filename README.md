@@ -2,6 +2,10 @@
 
 Celem warsztatów jest przygotowanie agenta AI do oceny spółek.
 
+## Repozytorium
+
+https://github.com/KacperWiniarski/BOB_hands_on.git
+
 ## Struktura warsztatów
 
 Warsztaty podzielone są na 5 zadań, z których każde znajduje się w osobnym folderze:
