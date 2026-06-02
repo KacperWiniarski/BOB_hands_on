@@ -29,7 +29,6 @@ Przeanalizuj plik agent.py i wykonaj szczegółowy przegląd kodu. Zidentyfikuj:
 4. **Jakość kodu**: Oceń czytelność, strukturę i zgodność z PEP 8
 5. **Obsługa błędów**: Sprawdź, czy wszystkie potencjalne wyjątki są odpowiednio obsługiwane
 6. **Dokumentacja**: Oceń jakość docstringów i komentarzy
-7. **Testowanie**: Zasugeruj, jakie testy jednostkowe powinny być dodane
 
 Dla każdego znalezionego problemu:
 - Wskaż konkretną linię kodu
