@@ -379,37 +379,6 @@ Stwórz przewodnik wdrożenia (docs/DEPLOYMENT.md):
    - Security updates
 ```
 
-## Część 7: Automatyzacja Dokumentacji
-
-### Krok 7: Generowanie dokumentacji z kodu
-
-```
-Skonfiguruj automatyczne generowanie dokumentacji:
-
-1. **Sphinx dla Python**:
-   - Instalacja i konfiguracja Sphinx
-   - Autodoc dla docstringów
-   - Generowanie HTML docs
-   - Hosting na Read the Docs
-
-2. **JSDoc dla JavaScript**:
-   - Konfiguracja JSDoc
-   - Dokumentowanie funkcji
-   - Generowanie dokumentacji
-
-3. **MkDocs**:
-   - Konfiguracja MkDocs
-   - Material theme
-   - Struktura dokumentacji
-   - Deployment na GitHub Pages
-
-Stwórz:
-- docs/conf.py (Sphinx config)
-- mkdocs.yml (MkDocs config)
-- .readthedocs.yaml (Read the Docs config)
-- GitHub Actions workflow dla auto-deploy docs
-```
-
 ## Narzędzia i Zasoby
 
 ### Przydatne narzędzia do dokumentacji:
