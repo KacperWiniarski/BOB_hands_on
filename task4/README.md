@@ -88,7 +88,7 @@ Stwórz nowoczesny interfejs webowy dla agenta analizy akcji. Frontend powinien 
    - Response: {report, recommendation, timestamp}
 
 4. **Struktura plików**:
-   ```
+   
    frontend/
    ├── index.html
    ├── css/
@@ -99,7 +99,7 @@ Stwórz nowoczesny interfejs webowy dla agenta analizy akcji. Frontend powinien 
    │   └── api.js
    └── assets/
        └── (ikony, obrazy)
-   ```
+   
 
 5. **Dodatkowe funkcje**:
    - Walidacja formularza
