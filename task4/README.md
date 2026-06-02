@@ -134,18 +134,13 @@ Dodaj również:
 
 ### Krok 6: Uruchomienie aplikacji
 
-1. **Uruchom backend** (jeśli został stworzony):
-```bash
-python backend/app.py
-```
-
-2. **Otwórz frontend**:
+1. **Otwórz frontend**:
 ```bash
 # Prosty serwer HTTP
 python -m http.server 8000 -d frontend
 ```
 
-3. **Otwórz w przeglądarce**:
+2. **Otwórz w przeglądarce**:
 ```
 http://localhost:8000
 ```
