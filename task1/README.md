@@ -4,7 +4,7 @@ To zadanie obejmuje początkową konfigurację wymaganą do uruchomienia projekt
 
 ## Wymagania wstępne
 
-- Python 3.8 lub wyższy
+- Python 3.11 lub wyższy
 - pip (instalator pakietów Python)
 
 ## Krok 1: Instalacja wymaganych pakietów
