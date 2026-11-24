@@ -4,6 +4,7 @@ Produces a structured report with BUY / HOLD / SELL recommendation.
 """
 
 import os
+from dotenv import load_dotenv
 from ibm_watsonx_ai import APIClient, Credentials
 from ibm_watsonx_ai.foundation_models import ModelInference
 from ibm_watsonx_ai.foundation_models.schema import TextChatParameters
