@@ -10,6 +10,8 @@ from ibm_watsonx_ai.foundation_models import ModelInference
 from ibm_watsonx_ai.foundation_models.schema import TextChatParameters
 from tavily import TavilyClient
 
++# Load API keys from .env (variables already set in the environment take precedence)
++load_dotenv()
 # ---------------------------------------------------------------------------
 # Clients
 # ---------------------------------------------------------------------------
