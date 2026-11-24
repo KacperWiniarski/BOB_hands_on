@@ -70,7 +70,7 @@ TAVILY_API_KEY=twoj_rzeczywisty_klucz_api_tavily
 Aby zweryfikować, czy konfiguracja jest poprawna, możesz uruchomić prosty test:
 
 ```bash
-python -c "from dotenv import load_dotenv; import os; load_dotenv(); print('Konfiguracja OK' if os.getenv('WATSONX_APIKEY') and os.getenv('TAVILY_API_KEY') else 'Brakuje kluczy')"
+python3 -c "from dotenv import load_dotenv; import os; load_dotenv(); print('Konfiguracja OK' if os.getenv('WATSONX_APIKEY') and os.getenv('TAVILY_API_KEY') else 'Brakuje kluczy')"
 ```
 
 ## Rozwiązywanie problemów
